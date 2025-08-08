@@ -29,9 +29,9 @@ After `cloning` the assignment you should make two commits:
 
 ---
 
-Your name: Sunny Cao Date: 
 
----
+Your name: Sunny Cao Date: 07/31/2025
+
 
 If you have any problems with this practice assignment, take screenshots and post them to <https://piazza.com/ucsd/summer2025/rady499>.
 
